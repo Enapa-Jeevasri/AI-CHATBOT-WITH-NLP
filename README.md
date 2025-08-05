@@ -112,6 +112,6 @@ Enhancing dialogue flow and memory for multi-turn conversations
 Creating a GUI-based chatbot or deploying it on a web app
 
 
-
-Let me know if you want this in PDF format or need a project report template too!
+# output
+![Image](https://github.com/user-attachments/assets/a863ed59-012d-408e-b5d8-7ca388690f45)
 
